@@ -1,4 +1,4 @@
-# Transmission addon for Hass.io
+# Transmission addon for Home Assistant
 
 The torrent client for Home Assistant with OpenVPN support.
 
