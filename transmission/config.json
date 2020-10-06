@@ -58,5 +58,5 @@
     "environment": {
       "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
     },
-     "image": "ciotlosm/addon-transmission-{arch}"
+    "image": "ciotlosm/addon-transmission-{arch}"
   }
