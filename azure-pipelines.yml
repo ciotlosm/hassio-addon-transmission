@@ -34,5 +34,5 @@ jobs:
           -v $DOCKER_CONFIG:/root/.docker \
           -v /run/docker.sock:/run/docker.sock:rw \
           -v $(pwd)/transmission:/data homeassistant/amd64-builder --$(archvar) -t /data \
-          --no-cache --docker-hub-check
+          --no-cache
     displayName: Building $(archvar)
