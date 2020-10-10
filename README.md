@@ -4,6 +4,8 @@ The torrent client for Home Assistant with OpenVPN support.
 
 ![Logo](transmission/logo.png?raw=true "Logo")
 
+[Read the full documentation](https://github.com/ciotlosm/hassio-addon-transmission/blob/master/transmission/DOCS.md)
+
 ## Changelog & Releases
 
 The format of the log is based on
